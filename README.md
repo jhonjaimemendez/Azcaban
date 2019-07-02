@@ -1,15 +1,15 @@
 # Azcaban
 Software de Inventario y Facturación
 
-#Prerequisitos
+Prerequisitos
 
 * Motor de base de datos MySQL
 * Maquina Virtual Java
 
-#Instalación
+Instalación
 
 Se debe ejecutar el script de base de datos sobre el motor de base de datos de Mysql
 
-#Licencia
+Licencia
 
 Comercial
